@@ -51,8 +51,8 @@ $path = route('admin.user-verify.index');
                                     <?php Session::forget('error');?>
                                 </div>
                                 @endif
-                            </div>
-                        </div>
+                            </div> 
+                        </div> 
                         <div class="row">
                             <div class="col-lg-12 col-md-12 table-responsive">
                                 <table id="data_table" class="table cell-border compact hover order-column row-border stripe">
