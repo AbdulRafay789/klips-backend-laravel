@@ -9,7 +9,7 @@ $path = route('admin.user-verify.index');
 	<div class="container-fluid">
         <div class="page-top">
             <div class="page-header borderless ">
-                <h4>Manage Account Verification</h4>   
+                <h4>Manage Account Verifications</h4>   
             </div>
             <div class="page-berdcrumb">
                 <ul class="breadcrumb">
